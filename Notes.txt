@@ -1,0 +1,52 @@
+ideone.comtcode
+hackerrank
+codeforces*
+leetcode*
+geeksforgeeks
+
+[programming pathshaala account]
+**Language->DSA->Web Devlopment->DBMS**
+H.W: Codeforces Watermelon
+
+# 3 reasons-error detection, edit,avoid repetetion
+ # Optimise:
+TIME		SPACE	
+# 3 things to run a program and their linkage with optimisation:
+	TIME-->    CPU : At 1 tym 1 CPU code can run only 1 program(If a program 	is slow it will use CPU for longer duration and other programs will no get 	the CPU...)
+	SPACE--> Memory(RAM)
+	External files
+[64]  
+TIME COMPLEXITY - Measurement of time taken by a program (See the loops, count total number of operations)
+
+
+*TIMSORT* : Time complexity is nlogn
+
+# Variable (can store only one value)
+# DATA STRUCTURES
+1) Linear :
+	array
+	vector
+	string->character array
+	Stacks
+	Queues
+	Linked List
+
+2)Heirarchical
+	Trees
+
+3)Hashing : To search an element in an array->  make another array-> Mark true/false-> Then we can directly go to the spot where req. element is placed and see if it is T/F.
+		   Every language has its own hash function.    It converts large numbers into smaller ones.		
+	Set 
+	Maps [one key,one value]
+
+4)Graph
+
+# OS commands [stack is used here]
+cd : change directory
+cd.. : go back
+ls : lists elements inside folder
+
+
+
+	
+	
